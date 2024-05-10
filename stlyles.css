@@ -1,0 +1,189 @@
+@charset "utf-8";
+header {
+	background-color: #5F5359;
+	border: 5px solid #B1A1A1;
+	gadding:  20px;
+	
+
+}
+nav{
+	display: flex; 
+	align-items: center; 
+	justify-content: space-between;
+
+	
+}
+li{
+	list-style: none; display: inline-block;
+
+}
+body {
+	background-color: #eae6e5;
+	
+		
+}
+
+body p {
+	font-family: Cantarell;
+	text-align: center;
+	width: auto;
+		
+}
+body h4 {
+    font-family: Cantarell;
+    font-style: oblique;
+	text-align: center
+		
+}
+
+
+h1 {
+	font-family: Arvo;
+	font-style: italic;
+	text-align: center;
+	 gadding: 20px;
+    margin: 20px;
+}
+
+
+h3 {
+    font-family: Cantarell;
+    font-style: italic;
+	text-align: center
+		
+}
+
+.Lulu  {
+    background-color: #1E452A;
+    color: #eae6e5;
+	
+	border: 5px solid #39986f;
+	gadding:  20px;
+	margin: 20px;
+	font-family: Cantarell;
+}
+.Archie {
+	background-color:#1E452A;
+	color: #eae6e5;
+	
+	border: 5px solid #39986f;
+	gadding:  20px;
+	margin: 20px;
+	font-family: Cantarell;
+}
+
+.Kaya {
+	background-color:#1E452A;
+	color: #eae6e5;
+	
+	border: 5px solid #39986f;
+	dadding:  20px;
+	margin: 20px;
+	font-family: Cantarell;
+}
+.Porsha {
+	background-color:#1E452A;
+	color: #eae6e5;
+	
+	border: 5px solid #39986f;
+	gadding:  20px;
+	margin: 20px;
+	font-family: Cantarell;
+}
+
+.Loki {
+	background-color:#1E452A;
+	color: #eae6e5;
+	
+	border: 5px solid #39986f;
+	gadding:  20px;
+	margin: 20px;
+	font-family: Cantarell;
+}
+footer {
+	background-color:#754c29;
+	color: #eae6e5;
+	font-family: Cantarell;
+	
+}
+.Amazon {
+    background-color: #1C3A44;
+    color: #eae6e5;
+    border: 2px solid;
+    width: 330px;
+    height: 200px;
+	position: relative;
+	top: auto;
+	left: 200px
+}
+.Patreon {
+	background-color:#1C3A44;
+	color: #eae6e5;
+	 width: 330px;
+    height: 200px;
+	position: absolute;
+	top: 1140px;
+	left: 555px
+}
+.Merchadise {
+	background-color:#1C3A44;
+	color: #eae6e5;
+	 width: 330px;
+    height: 200px;
+	position: absolute;
+	top: 1140px;
+	left: 900px;
+	
+}
+.about {
+}
+
+body fieldset {
+	background-color:#1C3A44;
+	color:aliceblue
+	
+}
+.info {
+	background-color: #39986f;
+	color: aliceblue;
+	 
+		
+}
+
+.infor {
+	background-color:#39986f;
+	color:aliceblue
+		 
+    
+}
+.open {
+    background-color: #1E452A;
+    color: #eae6e5;
+    border: 5px solid #39986f;
+    gadding: 20px;
+    margin: 20px;
+    width: auto;
+}
+
+.about {background-color:#39986f;
+	color: #eae6e5;
+	
+	border: 5px solid #1E452A;
+	gadding:  20px;
+	margin: 20px;
+	
+}
+.Have {
+	background-color:#1E452A;
+	color: #eae6e5;
+	
+	border: 5px solid #39986f;
+	gadding:  20px;
+	margin: 20px;
+	font-family: Cantarell;
+}
+.update {
+	background-color:#39986f;
+	color:aliceblue
+
+}
